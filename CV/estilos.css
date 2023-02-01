@@ -1,0 +1,87 @@
+*{
+    box-sizing: border-box;    
+}
+body {
+    font-family: 'Lora', serif;
+    background-image: url(https://www.roc21.com/blog/wp-content/uploads/2012/09/fondos-para-pa%CC%81ginas-web-12.jpg);
+    margin: 20px 947px 20px -11px;
+    padding: 10px 20px 10px 30px;
+  }
+
+  header {
+    text-align: center;
+    margin: 20px 20px 20px 20px;
+    padding: 10px 20px 10px 30px;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-54050.jpg?auto=format&h=200);
+    background-size: 100%;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: bold;
+    border: 4px solid #ffffff;
+  }
+
+  img{
+    border: 8px groove #ffffff;
+  }
+
+  a{
+    color: #ffffff;
+  }
+  nav{
+    background-image: url(https://i.pinimg.com/originals/1c/a3/79/1ca3790edd6207b40f8cd4ecaa99bb12.jpg);
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    border: 4px solid #ffffff;
+    text-decoration: none;
+    
+}
+
+  nav ul{
+    display: flex;
+    list-style: none;
+   
+  }
+
+  nav ul li{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 10px 30px 20px 30px;
+    font-size: large;
+    color: #ffffff;
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-54050.jpg?auto=format&h=200);
+    background-size: auto;
+    border: 8px groove #ffffff;
+  }
+
+  header, nav {
+    width: 1030px;
+    margin: 0 auto;
+  }
+
+  p{
+    font-weight: bold;
+  }
+
+  article, aside, footer{
+    background-image: url(http://www.solofondos.com/wp-content/uploads/2015/11/50-regalos-de-la-internet-para-dise%C3%B1adores9.jpg);
+    background-size: 100%;
+    border: 2px solid #ffffff;
+    color: #ffffff;
+    width: 1030px;
+    margin: auto;
+    justify-content: center;
+    padding: 50px;
+    box-sizing: border-box;
+  }
+
+.boton {
+    background-image: url(https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-54050.jpg?auto=format&h=200);
+    color: #ffffff;
+    margin-top: 50px;
+    font-weight: bold;
+    padding: 1rem 29rem 1rem 27rem;;
+    text-align: center;
+  }
+
